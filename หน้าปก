@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Delicious Restaurant</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #f5efe5;
+            font-family: Arial, sans-serif;
+        }
+
+        .poster {
+            width: 100%;
+            max-width: 1100px;
+            margin: 30px auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .poster img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="poster">
+
+        <!-- รูปหน้าปกร้านอาหาร -->
+        <img 
+            src="a_clean_minimalist_restaurant_poster_menu_ad_des.png"
+            alt="Delicious Restaurant Poster"
+        >
+
+    </div>
+
+</body>
+</html>
